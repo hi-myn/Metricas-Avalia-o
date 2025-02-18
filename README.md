@@ -26,4 +26,4 @@ Após o treinamento, avaliamos o modelo utilizando:
 O modelo apresenta um bom desempenho na classificação dos dígitos MNIST, com alta acurácia e métricas de avaliação satisfatórias.
 
 ## Autoria
-Este projeto foi desenvolvido para fins de aprendizado - feito a partir do aprendizado do bootcamp voltado para ML.
+Este projeto foi desenvolvido para fins de aprendizado 
